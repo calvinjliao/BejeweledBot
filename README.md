@@ -4,9 +4,13 @@ Automated AI that plays Bejeweled 3
 Requires the following libraries to function:
 
 opencv-python: https://github.com/opencv/opencv-python
+
 numpy: https://numpy.org/
+
 pyautogui: https://pyautogui.readthedocs.io/en/latest/ 
+
 python-imagesearch-drov0: https://github.com/drov0/python-imagesearch
+
 tensorflow/keras: https://www.tensorflow.org/
 
 
