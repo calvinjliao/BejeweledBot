@@ -1,6 +1,8 @@
 # BejeweledBot
 Automated AI that plays Bejeweled 3
 
+
+
 Requires the following libraries to function:
 
 opencv-python: https://github.com/opencv/opencv-python
@@ -12,6 +14,8 @@ pyautogui: https://pyautogui.readthedocs.io/en/latest/
 python-imagesearch-drov0: https://github.com/drov0/python-imagesearch
 
 tensorflow/keras: https://www.tensorflow.org/
+
+
 
 
 Bejeweled 3 must be running on the primary monitor, and the AI runs in 1920 x 1200 resolution windowed
