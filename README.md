@@ -1,6 +1,6 @@
 # BejeweledBot
 
-Automated AI that plays Bejeweled 3
+Automated AI that plays Bejeweled 3 by utilizing input automation and an sprite recognition neural network.
 
 ## Libraries
 Requires the following libraries to function:
